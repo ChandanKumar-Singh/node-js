@@ -20,7 +20,7 @@ const data = [
         phone: 9135324545,
         email: "chandankusingh4545@gmail.com",
       },{
-        name: "Chandan Kumar Singh",
+        name: "Chandan Kumar",
         age: 21,
         phone: 9135324545,
         email: "chandankusingh4545@gmail.com",
