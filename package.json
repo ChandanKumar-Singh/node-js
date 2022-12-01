@@ -1,0 +1,29 @@
+{
+  "name": "practice_3",
+  "version": "1.0.0",
+  "description": "AcadmeMind tut creating server and api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChandanKumar-Singh/node-js.git"
+  },
+  "keywords": [
+    "New",
+    "server",
+    "creation"
+  ],
+  "author": "TDS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChandanKumar-Singh/node-js/issues"
+  },
+  "homepage": "https://github.com/ChandanKumar-Singh/node-js#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1"
+  }
+}
